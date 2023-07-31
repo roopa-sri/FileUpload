@@ -1,0 +1,10 @@
+com/videostreaming/dto/ResponseFile.class
+com/videostreaming/dto/ResponseDTO.class
+com/videostreaming/repo/VideoRepository.class
+com/videostreaming/serviceimpl/VideoServiceImpl.class
+com/videostreaming/constant/ApplicationConstant.class
+com/videostreaming/util/CommonUtil.class
+com/videostreaming/domain/Video.class
+com/videostreaming/controller/VideoController.class
+com/videostreaming/VideoStreamingApplication.class
+com/videostreaming/service/VideoService.class
